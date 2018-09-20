@@ -1,0 +1,1 @@
+"0","test <- add_column(test, Child = if_else(test$Age < 13, 1, 0, missing = 0))"

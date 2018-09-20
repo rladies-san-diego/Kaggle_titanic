@@ -1,0 +1,3 @@
+"0","Prediction <- predict(RFfit, test.imputed)"
+"0","submit <- data.frame(PassengerId = test$PassengerId, Survived = Prediction)"
+"0","write.csv(submit, file = ""submissions/firstforest.csv"", row.names = FALSE)"

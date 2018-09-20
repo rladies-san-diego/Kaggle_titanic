@@ -1,0 +1,4 @@
+"0","test.imputed <- as.data.frame(unclass(test))"
+"0","test.imputed[,c(2, 12)] <- lapply(test.imputed[,c(2, 12)], as.factor)"
+"0","test.imputed[,c(1, 5, 6)] <- lapply(test.imputed[,c(1, 5, 6)], as.numeric)"
+"0","test.imputed <- select(test.imputed, PassengerId, Pclass, Sex, Age, SibSp, Parch, Fare, Embarked, Child)"

@@ -1,0 +1,1 @@
+"0","RFfit <- randomForest(Survived ~ Pclass + Sex + Age + SibSp + Parch + Fare + Embarked + Child, data=train.imputed, importance=TRUE, ntree=2000)"

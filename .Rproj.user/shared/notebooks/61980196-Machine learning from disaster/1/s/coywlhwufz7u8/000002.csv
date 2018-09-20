@@ -1,0 +1,3 @@
+"0","train <- read.csv(""Data/train.csv"", stringsAsFactors=FALSE)"
+"0","test <- read.csv(""Data/test.csv"", stringsAsFactors=FALSE)"
+"0","examplesub <- read.csv(""Data/gender_submission.csv"", stringsAsFactors=FALSE)"

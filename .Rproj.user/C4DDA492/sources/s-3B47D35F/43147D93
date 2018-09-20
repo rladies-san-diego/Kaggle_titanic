@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537482149305.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "43147D93",
+    "lastKnownWriteTime" : 1537482707,
+    "last_content_update" : 1537482707055,
+    "path" : "~/Documents/personal/R-Ladies/Kaggle titanic/Analysis 2/Machine learning from disaster.Rmd",
+    "project_path" : "Machine learning from disaster.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "217,112",
+        "scrollLine" : "211",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
